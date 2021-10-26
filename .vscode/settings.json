@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "htab.h": "c",
+        "unordered_map": "cpp",
+        "random": "c",
+        "functional": "c",
+        "stdint.h": "c",
+        "private_htab.h": "c",
+        "io.h": "c"
+    }
+}
